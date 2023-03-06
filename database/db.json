@@ -1,0 +1,329 @@
+{
+  "characters": [
+    {
+      "character": "%E7%94%B7",
+      "pinyin": "nan3",
+      "meaning": "man",
+      "new": true,
+      "words": [
+        {
+          "combination": [
+            "%E7%94%B7",
+            "%E4%BA%BA"
+          ],
+          "combinationMeanings": "male ",
+          "example": "男人",
+          "category": "humans"
+        },
+        {
+          "combination": [
+            "%E7%94%B7",
+            "%E4%BA%BA",
+            "%E5%8C%85"
+          ],
+          "combinationMeanings": "man bag",
+          "example": "男人包啦",
+          "category": "feelings"
+        },
+        {
+          "combination": [
+            "%E7%94%B7",
+            "%E4%BA%BA",
+            "%E4%BA%BA"
+          ],
+          "combinationMeanings": "man person",
+          "example": "男人男人",
+          "category": "food"
+        },
+        {
+          "combination": [
+            "%E7%94%B7",
+            "%E4%BA%BA",
+            "%E5%A4%AB"
+          ],
+          "combinationMeanings": "masculine",
+          "example": "男人夫啦",
+          "category": "sport"
+        },
+        {
+          "combination": [
+            "%E6%88%91",
+            "%E6%83%B3",
+            "%E7%94%B7"
+          ],
+          "combinationMeanings": "I want man",
+          "example": "我想男拉拉",
+          "category": "pleasure"
+        }
+      ],
+      "id": 1,
+      "review": true
+    },
+    {
+      "character": "%E4%BA%BA",
+      "pinyin": "ren3",
+      "meaning": "human",
+      "new": false,
+      "words": [
+        {
+          "combination": [
+            "%E7%94%B7",
+            "%E4%BA%BA"
+          ],
+          "combinationMeanings": "male person",
+          "example": "男人",
+          "category": "humans"
+        },
+        {
+          "combination": [
+            "%E7%94%B7",
+            "%E4%BA%BA",
+            "%E5%8C%85"
+          ],
+          "combinationMeanings": "man bag",
+          "example": "男人包啦",
+          "category": "feelings"
+        },
+        {
+          "combination": [
+            "%E7%94%B7",
+            "%E4%BA%BA",
+            "%E4%BA%BA"
+          ],
+          "combinationMeanings": "man person",
+          "example": "男人男人",
+          "category": "food"
+        },
+        {
+          "combination": [
+            "%E7%94%B7",
+            "%E4%BA%BA",
+            "%E5%A4%AB"
+          ],
+          "combinationMeanings": "masculine",
+          "example": "男人夫啦",
+          "category": "sport"
+        }
+      ],
+      "id": 2,
+      "review": true
+    },
+    {
+      "character": "%E5%8C%85",
+      "pinyin": "bao4",
+      "meaning": "bag",
+      "words": [
+        {
+          "combination": [
+            "%E7%94%B7",
+            "%E4%BA%BA",
+            "%E5%8C%85"
+          ],
+          "combinationMeanings": "man bag",
+          "example": "男人包啦",
+          "category": "feelings"
+        }
+      ],
+      "id": 3,
+      "review": false
+    },
+    {
+      "character": "%E5%A4%AB",
+      "pinyin": "fu2",
+      "meaning": "soldier",
+      "new": true,
+      "words": [
+        {
+          "combination": [
+            "%E7%94%B7",
+            "%E4%BA%BA",
+            "%E5%A4%AB"
+          ],
+          "combinationMeanings": "masculine",
+          "example": "男人夫啦",
+          "category": "sport"
+        }
+      ],
+      "id": 4,
+      "review": true
+    },
+    {
+      "character": "%E8%91%A1",
+      "pinyin": "pu1",
+      "meaning": "grapes",
+      "new": false,
+      "words": [
+        {
+          "combination": [
+            "%E8%91%A1",
+            "%E8%90%84"
+          ],
+          "combinationMeanings": "grape plant",
+          "example": "葡萄本",
+          "category": "nature"
+        }
+      ],
+      "id": 5,
+      "review": false
+    },
+    {
+      "character": "%E8%90%84",
+      "pinyin": "tao2",
+      "meaning": "plant",
+      "new": true,
+      "words": [
+        {
+          "combination": [
+            "%E8%91%A1",
+            "%E8%90%84"
+          ],
+          "combinationMeanings": "grape plant",
+          "example": "葡萄本",
+          "category": "nature"
+        }
+      ],
+      "id": 6,
+      "review": false
+    },
+    {
+      "character": "%E6%88%91",
+      "pinyin": "wo",
+      "meaning": "I",
+      "new": true,
+      "words": [
+        {
+          "combination": [
+            "%E6%88%91",
+            "%E6%83%B3",
+            "%E7%94%B7"
+          ],
+          "combinationMeanings": "I want man",
+          "example": "我想男拉拉",
+          "category": "pleasure"
+        }
+      ],
+      "id": 7,
+      "review": true
+    },
+    {
+      "character": "%E6%83%B3",
+      "pinyin": "xiang2",
+      "meaning": "want",
+      "new": false,
+      "words": [
+        {
+          "combination": [
+            "%E6%88%91",
+            "%E6%83%B3",
+            "%E7%94%B7"
+          ],
+          "combinationMeanings": "I want man",
+          "example": "我想男拉拉",
+          "category": "pleasure"
+        }
+      ],
+      "id": 8,
+      "review": false
+    },
+    {
+      "character": "%E8%AA%8D",
+      "pinyin": "ren3",
+      "meaning": "know",
+      "new": true,
+      "words": [
+        {
+          "combination": [
+            "%E8%AA%8D",
+            "%E8%AD%98"
+          ],
+          "combinationMeanings": "knowledge",
+          "example": "我不認識",
+          "category": "pleasure"
+        }
+      ],
+      "id": 9,
+      "review": true
+    },
+    {
+      "character": "%E8%AD%98",
+      "pinyin": "shi4",
+      "meaning": "realize",
+      "new": false,
+      "words": [
+        {
+          "combination": [
+            "%E8%AA%8D",
+            "%E8%AD%98"
+          ],
+          "combinationMeanings": "knowledge",
+          "example": "我不認識",
+          "category": "feelings"
+        }
+      ],
+      "id": 10,
+      "review": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "value": "animals"
+    },
+    {
+      "id": 2,
+      "value": "humans"
+    },
+    {
+      "id": 3,
+      "value": "feelings"
+    },
+    {
+      "value": "nature",
+      "id": 4
+    },
+    {
+      "value": "food",
+      "id": 5
+    },
+    {
+      "value": "anatomy",
+      "id": 6
+    },
+    {
+      "value": "geography",
+      "id": 7
+    },
+    {
+      "value": "pleasure",
+      "id": 8
+    },
+    {
+      "value": "science",
+      "id": 9
+    },
+    {
+      "value": "sport",
+      "id": 10
+    },
+    {
+      "value": "interests",
+      "id": 11
+    },
+    {
+      "value": "work",
+      "id": 12
+    },
+    {
+      "value": "leasure",
+      "id": 13
+    },
+    {
+      "value": "school",
+      "id": 14
+    },
+    {
+      "value": "health",
+      "id": 15
+    }
+  ]
+}
